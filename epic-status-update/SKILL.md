@@ -126,21 +126,24 @@ The user will manually color the GREEN/YELLOW/RED text in Jira after posting —
 Format:
 
 ```
-**GREEN:** {one-line overall status}. {key highlight}. {blocker status}.
+### GREEN:
+{one-line overall status}. {key highlight}. {blocker status}.
 
-### Completed
+---
+
+#### Completed
 - **ISSUE_KEY** {summary} — {who closed it}. {reason/outcome from comments}
 
-### In Progress
+#### In Progress
 - **ISSUE_KEY** {summary} — {context: who, what changed, linked PR if any}
 
-### Planned this sprint (Sprint {N}, {start} – {end})
+#### Planned this sprint (Sprint {N}, {start} – {end})
 - **ISSUE_KEY** {summary} — {status} ({assignee}). {notable comment context if any}
 
-### Notable Activity
+#### Notable Activity
 - {Substantive discussions, decisions, scope changes, resolutions}
 
-### Backlog
+#### Backlog
 - **ISSUE_KEY** {summary} — ({assignee or "unassigned"})
 ```
 
