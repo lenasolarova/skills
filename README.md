@@ -1,13 +1,13 @@
-# 🌸 Skills
+## 🌸 Skills
 
-Personal [Claude Code skills](https://agentskills.io/home) by Lena Solarova 🩷
+Personal skills for Claude by me for me 🩷
 
-## 🌷 Skills
+### Created Skills
 
 | Skill | Description |
 |-------|-------------|
-| 🌺 [epic-status-update](epic-status-update/SKILL.md) | Generate status update summaries for open In Progress Jira epics in the current quarter. |
+| 🌸 [epic-status-update](epic-status-update/SKILL.md) | Generate status update summaries for open In Progress Jira epics in the current quarter. |
 
-## 💮 Related
+### Related
 
-Team-shared skills live in [RedHatInsights/processing-tools](https://github.com/RedHatInsights/processing-tools/tree/master/skills) 🌻
+Non-rejected skills live in [RedHatInsights/processing-tools](https://github.com/RedHatInsights/processing-tools/tree/master/skills) 🌸
